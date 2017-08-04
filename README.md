@@ -1,6 +1,12 @@
 TravisCoin Core integration/staging tree
 =====================================
 
+
+Current Exchanges: 
+----------------
+1 travcoin <-> 1 tickle attack
+2 travcoin <-> 1 stick of gum
+
 What is TravisCoin?
 ----------------
 
